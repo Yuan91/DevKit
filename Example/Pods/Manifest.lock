@@ -1,0 +1,16 @@
+PODS:
+  - DevKit (0.1.0)
+
+DEPENDENCIES:
+  - DevKit (from `../`)
+
+EXTERNAL SOURCES:
+  DevKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DevKit: 1fad9846ba74b2f2986a3a7aa55aef5a10751eaf
+
+PODFILE CHECKSUM: 4c1f8f24e2482c4f04154036ff2202ea330e8c9c
+
+COCOAPODS: 1.8.4
